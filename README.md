@@ -1,1 +1,1 @@
-# Morpheus
+# Django REST React JWT Template
